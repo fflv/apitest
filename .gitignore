@@ -1,0 +1,11 @@
+/venv/*
+/.idea/*
+### Django ###
+*.log
+*.pot
+*.pyc
+*.xml
+__pycache__/*
+migrations/*
+db.sqlite3
+
